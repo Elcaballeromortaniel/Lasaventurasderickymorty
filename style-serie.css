@@ -132,7 +132,7 @@ footer {
     flex-wrap:wrap; 
     overflow-x: unset;
     scroll-snap-type: none;
-    
+    font-size: 20px;
   }
 
    .temporada {
