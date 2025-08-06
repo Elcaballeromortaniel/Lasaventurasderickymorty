@@ -138,7 +138,7 @@ footer {
    .temporada {
     flex: 1 1 200px; 
     max-height: 210px; 
-    margin: 1;
+    margin: 2px;
     max-width: 130px;
   }
 
